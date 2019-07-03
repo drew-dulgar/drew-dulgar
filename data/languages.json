@@ -1,0 +1,244 @@
+{
+  "categories": [
+    {
+      "id": "database",
+      "label": "Databases"
+    },
+    {
+      "id": "programming-language",
+      "label": "Programming Languages"     
+    },
+    {
+      "id": "presentation",
+      "label": "Presentation Languages"
+    },
+    {
+      "id": "server",
+      "label": "Servers"
+    }
+  ],
+  "skills": [
+    {
+      "parentID": null,
+      "id": "css",
+      "category_id": "presentation",
+      "label": "CSS"
+    },
+    {
+      "parentID": "css",
+      "id": "bootstrap",
+      "category_id": "presentation",
+      "label": "Bootstrap"
+    },
+    {
+      "parentID": "css",
+      "id": "material-ui-css",
+      "category_id": "presentation",
+      "label": "Material UI"
+    },
+    {
+      "parentID": "css",
+      "id": "less",
+      "category_id" : "presentation",
+      "label": "LESS"
+    },
+    {
+      "parentID": "css",
+      "id": "sass",
+      "category_id": "presentation",
+      "label": "SASS"
+    },
+    {
+      "parentID": "css",
+      "id": "responsive-design",
+      "category_id": "presentation",
+      "label": "Responsive Design"
+    },
+    {
+      "parentID": null,
+      "id": "html5",
+      "category_id": "presentation",
+      "label": "HTML 5"
+    },
+    {
+      "parentID": "html5",
+      "id": "flexbox",
+      "category_id": "presentation",
+      "label": "Flexbox"
+    },
+    {
+      "parentID": null,
+      "id": "php",
+      "category_id": "programming-language",
+      "label": "PHP"
+    },
+    {
+      "parentID": "php",
+      "id": "drupal6",
+      "category_id": "programming-language",
+      "label": "Drupal 6"
+    },
+    {
+      "parentID": "php",
+      "id": "drupal7",
+      "category_id": "programming-language",
+      "label": "Drupal 7"
+    },
+    {
+      "parentID": null,
+      "id": "coldfusion",
+      "category_id": "programming-language",
+      "label": "Coldfusion"
+    },
+    {
+      "parentID": "coldfusion",
+      "id": "coldbox",
+      "category_id": "programming-language",
+      "label": "ColdBox"
+    },
+    {
+      "parentID": "coldfusion",
+      "id": "coldspring",
+      "category_id": "programming-language",
+      "label": "ColdSpring"
+    },
+    {
+      "parentID": "coldfusion",
+      "id": "coldfusion-orm",
+      "category_id": "programming-language",
+      "label": "Coldfusion ORM (Hybernate)"
+    },
+    {
+      "parentID": null,
+      "id": "ruby",
+      "category_id": "programming-language",
+      "label": "Ruby"
+    },
+    {
+      "parentID": "ruby",
+      "id": "ruby-on-rails",
+      "category_id": "programming-language",
+      "label": "Ruby on Rails"
+    },
+    {
+      "parentID": "ruby",
+      "id": "capitranso",
+      "category_id": "programming-language",
+      "label": "Capistrano"
+    },
+    {
+      "parentID": "ruby",
+      "id": "cancancan",
+      "category_id": "programming-language",
+      "label": "Can Can Can"
+    },
+    {
+      "parentID": "ruby",
+      "id": "pundit",
+      "category_id": "programming-language",
+      "label": "Pundit"
+    },
+    {
+      "parentID": "ruby",
+      "id": "devise",
+      "category_id": "programming-language",
+      "label": "Devise"
+    },
+    {
+      "parentID": null,
+      "id": "javascript",
+      "category_id": "programming-language",
+      "label": "Javascript"
+    },
+    {
+      "parentID": "javascript",
+      "id": "jquery",
+      "category_id": "programming-language",
+      "label": "jQuery"
+    },
+    {
+      "parentID": "javascript",
+      "id": "jquery-ui",
+      "category_id": "programming-language",
+      "label": "jQuery-UI"
+    },
+    {
+      "parentID": "javascript",
+      "id": "React",
+      "category_id": "programming-language",
+      "label": "React"
+    },
+    {
+      "parentID": "javascript",
+      "id": "redux",
+      "category_id": "programming-language",
+      "label": "Redux"
+    },
+    {
+      "parentID": "javascript",
+      "id": "material-ui-js",
+      "category_id": "programming-language",
+      "label": "Material UI"
+    },
+    {
+      "parentID": null,
+      "id": "servers",
+      "category_id": "server",
+      "label": "Servers"
+    },
+    {
+      "parentID": "servers",
+      "id": "nodejs",
+      "category_id": "server",
+      "label": "Node JS (express)"
+    },
+    {
+      "parentID": "servers",
+      "id": "centos",
+      "category_id": "server",
+      "label": "CentOS"
+    },
+    {
+      "parentID": "servers",
+      "id": "windows",
+      "category_id": "server",
+      "label": "Windows Server"
+    },
+    {
+      "parentID": "servers",
+      "id": "red-hat",
+      "category_id": "server",
+      "label": "Red Hat"
+    },
+    {
+      "parentID": null,
+      "id": "databases",
+      "category_id": "database",
+      "label": "Databases"
+    },
+    {
+      "parentID": "databases",
+      "id": "mysql",
+      "category_id": "database",
+      "label": "MySQL"
+    },
+    {
+      "parentID": "databases",
+      "id": "mariadb",
+      "category_id": "database",
+      "label": "Maria DB"
+    },
+    {
+      "parentID": "databases",
+      "id": "sql-server",
+      "category_id": "database",
+      "label": "Microsoft SQL Server"
+    },
+    {
+      "parentID": "databases",
+      "id": "oracle",
+      "category_id": "database",
+      "label": "Oracle"
+    }
+  ]
+}
